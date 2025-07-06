@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @Engineernoob <br>- 👀 I'm passionate about Machine Learning, Data Science, Artificial Intelligence, and Web Development. <br>- 🌱 Currently learning new coding techniques, deepening my knowledge in Data Science and AI. <br>- 💞️ I'm actively looking to collaborate on tech projects to expand my portfolio and work with like-minded individuals. <br>- 📫 Reach me via **email**: t.denmark@outlook.com
+ 👋 Hi, I’m @Engineernoob <br>- 👀 I'm passionate about Machine Learning, Data Science, Artificial Intelligence, and Web Development. <br>- 🌱 Currently learning new coding techniques, deepening my knowledge in Data Science and AI. <br>- 💞️ I'm actively looking to collaborate on tech projects to expand my portfolio and work with like-minded individuals. <br>- 📫 Reach me via **email**: taahirah.engineer@proton.me, for colabs : taahirahdenmark09@gmail.com
 
 
 ## 🌐 Socials:
