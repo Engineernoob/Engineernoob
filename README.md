@@ -33,10 +33,4 @@ Currently working on reinforcement learning agents, game environments, and tools
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Engineernoob&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Engineernoob&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Engineernoob&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-</p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Engineernoob" alt="GitHub Streak" /></a>
