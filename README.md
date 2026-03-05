@@ -2,8 +2,6 @@
 
 ### Building reinforcement learning agents and production-minded systems. Focused on clean architecture, performance, and real-world usability.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Engineernoob&label=Profile views&color=0e75b6&style=flat" alt="Engineernoob" /> </p>
-
 - 🔭 I'm currently working on **🧠 Training reinforcement learning agents (PPO) in game environments and improving environment design and evaluation workflows.**
 
 - 🌱 I'm currently learning ** Reinforcement learning theory, agent evaluation strategies, and improving full-stack patterns where they support AI systems.**
